@@ -17,5 +17,5 @@ public class Design {
 
     private String designName;
 
-    private String fixedRate;
+    private Double fixedRate;
 }
